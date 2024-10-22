@@ -1,2 +1,1 @@
-# degrees
-This is Degrees!
+# Degrees
