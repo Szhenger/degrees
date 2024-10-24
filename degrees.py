@@ -91,6 +91,7 @@ def shortest_path(source, target):
 
     If no possible path, returns None.
     """
+    
     # Get path from source to target
     path = []
 
